@@ -175,7 +175,6 @@ require 'fast_jsonapi/instrumentation/seriable_hash'
 require 'fast_jsonapi/instrumentation/serialized_json'
 require 'fast_jsonapi/instrumentation/skylight/normalizers/seralizable_hash'
 require 'fast_jsonapi/instrumentation/skylight/normalizers/seralized_josn'
-
 ```
 
 ```
